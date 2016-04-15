@@ -1,12 +1,3 @@
-/**
- * React Starter Kit (https://www.reactstarterkit.com/)
- *
- * Copyright © 2014-2016 Kriasoft, LLC. All rights reserved.
- *
- * This source code is licensed under the MIT license found in the
- * LICENSE.txt file in the root directory of this source tree.
- */
-
 /* eslint-disable max-len */
 /* jscs:disable maximumLineLength */
 
@@ -34,8 +25,8 @@ export const auth = {
 
   // https://cloud.google.com/console/project
   google: {
-    id: process.env.GOOGLE_CLIENT_ID || '251410730550-ahcg0ou5mgfhl8hlui1urru7jn5s12km.apps.googleusercontent.com',
-    secret: process.env.GOOGLE_CLIENT_SECRET || 'Y8yR9yZAhm9jQ8FKAL8QIEcd',
+    id: process.env.GOOGLE_CLIENT_ID || '114596459676-b30kskdonpjh9069evk4tk62ou8pis4g.apps.googleusercontent.com',
+    secret: process.env.GOOGLE_CLIENT_SECRET || '0Jg0XDNXlmM2UeDH6dXk8u-c',
   },
 
   // https://apps.twitter.com/
